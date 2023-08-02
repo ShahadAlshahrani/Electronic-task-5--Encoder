@@ -1,5 +1,5 @@
 # Electronic-task-5-Encoder
-##Encoder
+## Encoder
 The LPD3806-600BM-G5-24C is a type of rotary encoder motor made by a company called BEI Sensors. This motor is designed for use in a wide range of industrial applications, including robotics, automation, and motion control.
 The LPD3806-600BM-G5-24C motor is a high-resolution device that is capable of very precise motion control. It features a built-in encoder which provides feedback about the position and speed of the motor shaft. This feedback can be used to control the motor's motion with great accuracy and precision.
 The motor operates on a 24-volt DC power supply and has a maximum speed of 600 RPM. It is designed to be compact and durable, with a rugged construction that can withstand harsh industrial environments. The LPD3806-600BM-G5-24C motor is a popular choice for many different types of industrial applications due to its high performance, reliability, and versatility
